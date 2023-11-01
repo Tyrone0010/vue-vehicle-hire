@@ -1,0 +1,180 @@
+{
+  "vehicles": [
+    {
+      "registrationNumber": "RV64 PAG",
+      "category": "Small car",
+      "make": "Honda",
+      "model": "Jazz",
+      "fuelType": "petrol",
+      "dailyRate": "£25"
+    },
+    {
+      "registrationNumber": "FA57 MRK",
+      "category": "Small car",
+      "make": "VW",
+      "model": "Polo",
+      "fuelType": "petrol",
+      "dailyRate": "£25"
+    },
+    {
+      "registrationNumber": "RAY 5WC",
+      "category": "Small car",
+      "make": "Toyata",
+      "model": "Yaris",
+      "fuelType": "diesel",
+      "dailyRate": "£25"
+    },
+    {
+      "registrationNumber": "BJS 44",
+      "category": "Small car",
+      "make": "Toyata",
+      "model": "Yaris",
+      "fuelType": "diesel",
+      "dailyRate": "£25"
+    },
+    {
+      "registrationNumber": "CU22 COB",
+      "category": "Small car",
+      "make": "Toyata",
+      "model": "Yaris",
+      "fuelType": "diesel",
+      "dailyRate": "£25"
+    },
+    {
+      "registrationNumber": "FG71 XYS",
+      "category": "Small car",
+      "make": "Toyata",
+      "model": "Yaris",
+      "fuelType": "petrol",
+      "dailyRate": "£25"
+    },
+    {
+      "registrationNumber": "VV21 MOP",
+      "category": "Small car",
+      "make": "VW",
+      "model": "Polo",
+      "fuelType": "petrol",
+      "dailyRate": "£25"
+    },
+    {
+      "registrationNumber": "VE73 RTY",
+      "category": "Small car",
+      "make": "VW",
+      "model": "Polo",
+      "fuelType": "petrol",
+      "dailyRate": "£25"
+    },
+    {
+      "registrationNumber": "CV22 XYW",
+      "category": "Small car",
+      "make": "VW",
+      "model": "Polo",
+      "fuelType": "diesel",
+      "dailyRate": "£25"
+    },
+    {
+      "registrationNumber": "WS20 XYW",
+      "category": "Small car",
+      "make": "Peugeot",
+      "model": "208",
+      "fuelType": "petrol",
+      "dailyRate": "£25"
+    },
+    {
+      "registrationNumber": "TF23 VBM",
+      "category": "Small car",
+      "make": "Peugeot",
+      "model": "208",
+      "fuelType": "petrol",
+      "dailyRate": "£25"
+    },
+    {
+      "registrationNumber": "VII AHB",
+      "category": "Estate car",
+      "make": "Ford",
+      "model": "Galaxy",
+      "fuelType": "petrol",
+      "dailyRate": "£35"
+    },
+    {
+      "registrationNumber": "KD73 KOP",
+      "category": "Estate car",
+      "make": "Ford",
+      "model": "Galaxy",
+      "fuelType": "diesel",
+      "dailyRate": "£35"
+    },
+    {
+      "registrationNumber": "HH73 NOP",
+      "category": "Estate car",
+      "make": "BMW",
+      "model": "3 Series",
+      "fuelType": "petrol",
+      "dailyRate": "£35"
+    },
+    {
+      "registrationNumber": "MA07 CAN",
+      "category": "Estate car",
+      "make": "Kia",
+      "model": "ProCeed",
+      "fuelType": "petrol",
+      "dailyRate": "£35"
+    },
+    {
+      "registrationNumber": "FA57 MRK",
+      "category": "Estate car",
+      "make": "Audi",
+      "model": "A3",
+      "fuelType": "diesel",
+      "dailyRate": "£35"
+    },
+    {
+      "registrationNumber": "BI FOB",
+      "category": "Estate car",
+      "make": "Audi",
+      "model": "A3",
+      "fuelType": "diesel",
+      "dailyRate": "£35"
+    },
+    {
+      "registrationNumber": "YT23 TRE",
+      "category": "Estate car",
+      "make": "VW",
+      "model": "Golf",
+      "fuelType": "diesel",
+      "dailyRate": "£35"
+    },
+    {
+      "registrationNumber": "T666 SLA",
+      "category": "Van",
+      "make": "Vauxhall",
+      "model": "Combo",
+      "fuelType": "petrol",
+      "dailyRate": "£50"
+    },
+    {
+      "registrationNumber": "Y26 ABY",
+      "category": "Van",
+      "make": "Nissan",
+      "model": "NV200",
+      "fuelType": "petrol",
+      "dailyRate": "£50"
+    },
+    {
+      "registrationNumber": "HA22 YYX",
+      "category": "Van",
+      "make": "Fiat",
+      "model": "Fiorino",
+      "fuelType": "diesel",
+      "dailyRate": "£50"
+    },
+    {
+      "registrationNumber": "HC63 AMG",
+      "category": "Van",
+      "make": "Fiat",
+      "model": "Fiorino",
+      "fuelType": "diesel",
+      "dailyRate": "£50"
+    }
+  ]
+}
